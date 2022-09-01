@@ -24,5 +24,5 @@ while True:
         break
 
 plt.plot(plot_data_red)
-plt.plot(plot_data_ir)
+# plt.plot(plot_data_ir)
 plt.show()
